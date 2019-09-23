@@ -47,13 +47,6 @@
       "config": {
         "policies": []
       }
-    },
-    {
-        "method": "GET",
-        "path": "/snipcartParser",
-        "handler": "Product.snipcartParser",
-        "config": {
-        "policies": []
     }
   ]
 }
